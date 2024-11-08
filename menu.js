@@ -20,3 +20,5 @@ var menuSide = document.querySelector('.menu-lateral')
 btnExp.addEventListener('click', function(){
     menuSide.classList.toggle('expandir')
 })
+
+var nova
